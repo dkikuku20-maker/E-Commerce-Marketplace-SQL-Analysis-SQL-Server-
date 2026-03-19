@@ -11,9 +11,11 @@ The analysis focuses on understanding:
 * Seller performance and pricing patterns
 * Customer geographic distribution
 * Review trends and customer satisfaction
-
 ---
+## Dataset Source
 
+The dataset used in this project is publicly available on Kaggle:
+---
 ## 🎯 Business Objectives
 
 The project aims to answer key business questions such as:
@@ -232,10 +234,6 @@ To overcome this:
 This project demonstrates how SQL can be used to extract meaningful business insights from real-world data.
 Despite data limitations, the analysis provides valuable perspectives on **payment behavior, seller performance, and customer experience**.
 
----
-## Dataset Source
-
-The dataset used in this project is publicly available on Kaggle:
 
 👉 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
