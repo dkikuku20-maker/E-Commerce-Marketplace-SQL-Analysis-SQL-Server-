@@ -234,9 +234,3 @@ Despite data limitations, the analysis provides valuable perspectives on **payme
 
 ---
 
-## 👨‍💻 Author
-
-**Dessailly Kikuku**
-Aspiring Data Analyst / Data Scientist
-
----
