@@ -233,4 +233,11 @@ This project demonstrates how SQL can be used to extract meaningful business ins
 Despite data limitations, the analysis provides valuable perspectives on **payment behavior, seller performance, and customer experience**.
 
 ---
+## Dataset Source
+
+The dataset used in this project is publicly available on Kaggle:
+
+👉 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+---
 
